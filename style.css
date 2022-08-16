@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    direction: rtl;
+}
+
+header {
+    display: flex;
+    padding: 15px;
+}
+
+.top-menu {
+    display: flex;
+    margin: 10px;
+}
