@@ -1,12 +1,15 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    direction: rtl;
 }
 
 .main-header {
     width: 100%;
-    background-color: #1565c0;
+    background-color: #ffffff;
     padding: 8px 16px;
+    margin-bottom: 10px;
 }
 
 .main-header>div {
@@ -24,7 +27,7 @@
 
 .top-menu>a {
     float: right;
-    margin-right: 40px;
+    margin-left: 30px;
 }
 
 .top-menu>input {
