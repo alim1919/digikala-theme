@@ -189,7 +189,7 @@
 /* catagory start here */
 .flex-container {
     display: flex;
-    background-color: DodgerBlue;
+    /* background-color: DodgerBlue; */
     justify-content: space-evenly;
 }
 
@@ -199,3 +199,18 @@
     padding: 20px;
     font-size: 30px;
 } */
+
+.d-flex img {
+    width: 52px;
+    height: 52px;
+
+}
+
+/* .size-pixcel {
+    width: 52px;
+    height: 52px;
+} */
+
+.category {
+    margin-top: 30px;
+}
